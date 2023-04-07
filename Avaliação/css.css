@@ -1,0 +1,13 @@
+  
+        a {text-decoration: none;right: 50px;color: #3d1a06; font-size: 25px;padding-left: 30px;vertical-align: auto;position: relative;top: 40px;font-family: 'Lucida Sans';}
+        .logo {position: absolute;left: 20px;}
+        nav {background-color: #d9d3c3;width: 100%;position: absolute;height: 110px;text-align: right;}
+        p {width: 45%;text-justify: auto; line-height: 30px;position: relative;top: 160px;font-family: 'Lucida Sans';counter-reset: #3d1a06;}
+        .holmes {width: 40%;position: relative; top: -200px;left: 700px;border-radius: 20px;}
+        .lupim {width: 40%;position: relative; top: -200px;left: 700px;border-radius: 20px;}
+        h1 {width: 650px;text-justify: auto; line-height: 25px;position: relative;top: 160px;color:#3d1a06;}
+        .botao {background-color: #d9d3c3; height: 80px; text-align: center;position: relative;width: 100%; bottom: 0;font-family: 'Lucida Sans';}
+        .botao a{background-color: #d9d3c3;position: relative; top: -15px;}
+        body {background-color: #5b9bbe;top: 0; left: 0;}
+        nav a {opacity: 1;transition:  0.52s;border-radius: 20px;}
+        nav a:hover {opacity: 1;background-color: #3d1a06;color: darkorange;padding-right: 20px;}
